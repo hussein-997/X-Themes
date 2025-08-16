@@ -1,0 +1,15 @@
+{
+  "themes": [
+    {
+      "theme_name": "Tema Exemplo",
+      "theme_user": "Você",
+      "theme_date": "2025-08-16",
+      "theme_size": "2.1 MB",
+      "theme_preview_1": "https://i.imgur.com/AAA111.jpg",
+      "theme_preview_2": "https://i.imgur.com/BBB222.jpg",
+      "theme_preview_3": "https://i.imgur.com/CCC333.jpg",
+      "theme_download_noads": "https://example.com/tema_exemplo.zip",
+      "description": "Descrição opcional."
+    }
+  ]
+}
