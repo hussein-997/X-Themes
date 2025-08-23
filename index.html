@@ -5,23 +5,59 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>X-Themes Store</title>
   <style>
-    body { font-family: system-ui, -apple-system, Roboto, sans-serif; max-width: 680px; margin: 32px auto; padding: 0 16px; line-height: 1.6; text-align: center; }
+    body {
+      font-family: system-ui, -apple-system, Roboto, sans-serif;
+      max-width: 680px;
+      margin: 32px auto;
+      padding: 0 16px;
+      line-height: 1.6;
+      text-align: center;
+      background: #f9f9f9;
+    }
     h1 { font-size: 2.2rem; margin: 0 0 8px; }
     .meta { color:#666; margin-bottom: 24px; }
-    a.button {
-      display: inline-block;
-      background: linear-gradient(135deg, #ff0854, #6a11cb);
-      color: #fff; padding: 14px 28px; border-radius: 8px;
-      font-size: 1.1rem; font-weight: bold; text-decoration: none;
-      transition: opacity 0.3s;
+
+    /* animação do gradiente */
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
     }
-    a.button:hover { opacity: 0.85; }
+
+    /* animação do ícone */
+    @keyframes blink {
+      0%, 50%, 100% { opacity: 1; }
+      25%, 75% { opacity: 0; }
+    }
+
+    a.button {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: linear-gradient(270deg, #ff0854, #6a11cb, #ff0854);
+      background-size: 600% 600%;
+      color: #fff;
+      padding: 14px 28px;
+      border-radius: 8px;
+      font-size: 1.1rem;
+      font-weight: bold;
+      text-decoration: none;
+      animation: gradient 6s ease infinite;
+    }
+    .icon {
+      font-size: 1.3rem;
+      animation: blink 1.5s infinite;
+    }
   </style>
 </head>
 <body>
   <h1>X-Themes Store</h1>
-  <div class="meta">by Hussein • Atualizado em <span>Agosto 2025</span></div>
-  <p>Para usar os <b>temas exclusivos</b> do X WhatsApp, instale nossa loja oficial.</p>
-  <p><a class="button" href="https://github.com/hussein-997/X-Themes/raw/main/apk/XThemesStore.apk">⬇️ Baixar Agora</a></p>
+  <div class="meta">by Hussein • Atualizado em Agosto 2025</div>
+  <p>Para usar os <b>temas exclusivos</b> do X WhatsApp, instale nossa loja oficial:</p>
+  <p>
+    <a class="button" href="https://github.com/hussein-997/X-Themes/raw/main/apk/XThemesStore.apk">
+      <span class="icon">🌟</span> Baixar Agora
+    </a>
+  </p>
 </body>
 </html>
