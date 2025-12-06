@@ -1,6 +1,7 @@
 [
   {
     "theme_name": "🌻 Girassol - X",
+    "compatible": "break",
     "theme_user": "Isa - Artes",
     "theme_preview_1": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/Girassol_Preview1.png",
     "theme_preview_2": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/Girassol_Preview2.png",
@@ -177,6 +178,7 @@
   },
   {
     "theme_name": "Himiko - Toga X",
+    "compatible": "24.15",
     "theme_user": "Hussein - X",
     "theme_preview_1": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/Himiko_Preview1.png",
     "theme_preview_2": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/Himiko_Preview2.png",
