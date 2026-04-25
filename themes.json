@@ -2,6 +2,9 @@
   {
     "theme_name": "Ursinho Roxo",
     "compatible": "24.15",
+    "id": "tema001",
+"type": "paid",
+"price": "5.00",
     "theme_user": "Isa - Artes",
     "theme_preview_1": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/UrsinhoRoxo_Preview1.png",
     "theme_preview_2": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/UrsinhoRoxo_Preview2.png",
