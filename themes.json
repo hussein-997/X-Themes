@@ -1,5 +1,19 @@
 [
   {
+    "theme_name": "Barbie",
+    "compatible": "24.15",
+    "type": "paid",
+    "price":"5,00",
+    "theme_user": "Isa - Artes",
+    "theme_preview_1": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/Barbie_Preview1.png",
+    "theme_preview_2": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/Barbie_Preview2.png",
+    "theme_preview_3": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/Barbie_Preview3.png",
+    "theme_download_ads": "https://shrtslug.biz/8Qhqn",
+    "theme_download_noads": "https://github.com/hussein-997/X-Themes/raw/main/zips/Barbie.zip",
+    "theme_size": "1.20 MB",
+    "theme_date": "2026-05-02"
+  },
+  {
     "theme_name": "Marie Stardust",
     "compatible": "24.15",
     "type": "free",
