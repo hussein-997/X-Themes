@@ -193,6 +193,32 @@
   "theme_download_noads": "https://github.com/hussein-997/X-Themes/raw/main/zips/XWa%20Girassol%20%F0%9F%8C%BB.zip",
   "theme_size": "3.92 MB",
   "theme_date": "2026-09-28"
+  },
+  {
+  "theme_name": "XWa Capivara",
+  "compatible": "24.15",
+  "type": "free",
+  "theme_user": "Isa - Artes",
+  "theme_preview_1": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/CAPIVARA_Preview1.png",
+  "theme_preview_2": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/CAPIVARA_Preview2.png",
+  "theme_preview_3": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/CAPIVARA_Preview3.png",
+  "theme_download_ads": "https://github.com/hussein-997/X-Themes/raw/main/zips/XWa%20Capivara.zip",
+  "theme_download_noads": "https://github.com/hussein-997/X-Themes/raw/main/zips/XWa%20Capivara.zip",
+  "theme_size": "1007.57 KB",
+  "theme_date": "2026-09-28"
+  },
+  {
+  "theme_name": "XWa Kitty Keroppi",
+  "compatible": "24.15",
+  "type": "free",
+  "theme_user": "Isa - Artes",
+  "theme_preview_1": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/KITTYKEROPPI_Preview1.png",
+  "theme_preview_2": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/KITTYKEROPPI_Preview2.png",
+  "theme_preview_3": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/KITTYKEROPPI_Preview3.png",
+  "theme_download_ads": "https://github.com/hussein-997/X-Themes/raw/main/zips/XWa%20Kitty%20Keroppi.zip",
+  "theme_download_noads": "https://github.com/hussein-997/X-Themes/raw/main/zips/XWa%20Kitty%20Keroppi.zip",
+  "theme_size": "1.17 MB",
+  "theme_date": "2026-09-28"
   }
 ]
 
