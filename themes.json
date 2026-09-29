@@ -154,6 +154,32 @@
   "theme_download_noads": "https://github.com/hussein-997/X-Themes/raw/main/zips/XWa%20Capivara%20Cute.zip",
   "theme_size": "1.28 MB",
   "theme_date": "2026-09-28"
+  },
+  {
+  "theme_name": "XWa Doraemon",
+  "compatible": "24.15",
+  "type": "free",
+  "theme_user": "Isa - Artes",
+  "theme_preview_1": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/DORAEMON_Preview1.png",
+  "theme_preview_2": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/DORAEMON_Preview2.png",
+  "theme_preview_3": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/DORAEMON_Preview3.png",
+  "theme_download_ads": "https://github.com/hussein-997/X-Themes/raw/main/zips/XWa%20Doraemon.zip",
+  "theme_download_noads": "https://github.com/hussein-997/X-Themes/raw/main/zips/XWa%20Doraemon.zip",
+  "theme_size": "1.90 MB",
+  "theme_date": "2026-09-28"
+  },
+  {
+  "theme_name": "XWa Minnie Rosa",
+  "compatible": "24.15",
+  "type": "free",
+  "theme_user": "Isa - Artes",
+  "theme_preview_1": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/MINNIEROSA_Preview1.png",
+  "theme_preview_2": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/MINNIEROSA_Preview2.png",
+  "theme_preview_3": "https://raw.githubusercontent.com/hussein-997/X-Themes/main/images/MINNIEROSA_Preview3.png",
+  "theme_download_ads": "https://github.com/hussein-997/X-Themes/raw/main/zips/XWa%20Minnie%20Rosa.zip",
+  "theme_download_noads": "https://github.com/hussein-997/X-Themes/raw/main/zips/XWa%20Minnie%20Rosa.zip",
+  "theme_size": "1.39 MB",
+  "theme_date": "2026-09-28"
   }
 ]
 
